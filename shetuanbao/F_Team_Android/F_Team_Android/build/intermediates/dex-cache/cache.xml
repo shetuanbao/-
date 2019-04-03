@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspace\F_Team_Android\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Android\workspace\F_Team_Android\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_89ec45041847aead1470f1f374da780f292f17c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspace\F_Team_Android\libs\txm.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="faded2580fbd1578347896d7b7d71aee1644e3a4">
+        <dex dex="D:\Android\workspace\F_Team_Android\build\intermediates\transforms\dex\debug\folders\1000\2\txm_fd3a1de17cb06c13f9408b56e7abe1ca4cbbaeb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspace\F_Team_Android\libs\zxing-2.0-core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bd6b097588487313f7a94914fb89d44238964977">
+        <dex dex="D:\Android\workspace\F_Team_Android\build\intermediates\transforms\dex\debug\folders\1000\2\zxing-2.0-core_90d37ab9b0296db81789612fd30391b8debf9abc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspace\F_Team_Android\build\intermediates\exploded-aar\F_Team_Android\IMKit\unspecified\jars\libs\Rong_IMKit_v2_6_11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="93b40b90d48b03a1805a84b0f5b56ce3f430a5ea">
+        <dex dex="D:\Android\workspace\F_Team_Android\build\intermediates\transforms\dex\debug\folders\1000\8\Rong_IMKit_v2_6_11_3d73d2523a14d2cbf2313c57e71db8f1e1bfbefa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspace\F_Team_Android\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Android\workspace\F_Team_Android\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e5e5e347353dc33467d5f1b85b24d506fe67c08e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspace\F_Team_Android\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b20dc871d179ba476082efe543dc1b38db46e30">
+        <dex dex="D:\Android\workspace\F_Team_Android\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_1a0758ebc4d0d49f1c06b63f157e2a3123b5ac79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspace\F_Team_Android\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4e6470fe5081bd76bb727ea9d0d9de373ac5940b">
+        <dex dex="D:\Android\workspace\F_Team_Android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-24.2.1_c4a5cd8099071c296f11cbfa3ba0857bc473487f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspace\F_Team_Android\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\Android\workspace\F_Team_Android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_749a3a980d7d19b41b07759e900ce60ae4bdca88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\Android\workspace\F_Team_Android\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_a45405e82f9eb237681c9cf66b4eb54d7b88c9f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspace\F_Team_Android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="D:\Android\workspace\F_Team_Android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_6325c8f132a1565cd091097c1f24c68980da12d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspace\F_Team_Android\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Android\workspace\F_Team_Android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_ae50223a97001fd11b10d3d04af19e07bcd8c9ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspace\F_Team_Android\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\Android\workspace\F_Team_Android\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_e3949256e07c344ce24143a304cd8fb3d9b33a5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspace\F_Team_Android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76c0f0f8b6c77bf4ba01a867a4a9e420ff6bb718">
+        <dex dex="D:\Android\workspace\F_Team_Android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_eaefd614f043356f2d274a50106651cc38349b57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspace\F_Team_Android\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Android\workspace\F_Team_Android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_fd8584c4a099315c9e4d4237dd2623d91e0289e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspace\F_Team_Android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0d9d52e3f65179eeaddebf20d81183130a0f4bd6">
+        <dex dex="D:\Android\workspace\F_Team_Android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_36f6332ba2146e1cbf00e3aadbcd46d055a17b38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspace\F_Team_Android\libs\picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\Android\workspace\F_Team_Android\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.4.0_f5bc400c050858f7bdd5e914743b0b48fb80e036\classes.dex" />
+    </item>
+
+</items>

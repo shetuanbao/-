@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#999999</color>
+    <color name="black">#000000</color>
+    <color name="blue">#8d9dfd</color>
+    <color name="blue2">#49C4D6</color>
+    <color name="gray">#050505</color>
+    <color name="green">#9cfda3</color>
+    <color name="group_list_gray">#999999</color>
+    <color name="main_regist">#ffffff</color>
+    <color name="red">#fd8d8d</color>
+    <color name="white">#FFFFFF</color>
+    <declare-styleable name="roundedimageview"><attr format="dimension" name="border_thickness"/><attr format="color" name="border_inside_color"/><attr format="color" name="border_outside_color"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">社团宝一级管理</string>
+    <string name="forgot_pwd">忘记密码？</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="idtxthint">用户名</string>
+    <string name="loading">正在登录</string>
+    <string name="loginbtntext">登录</string>
+    <string name="pwdtxthint">密码</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppStart" parent="android:Theme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

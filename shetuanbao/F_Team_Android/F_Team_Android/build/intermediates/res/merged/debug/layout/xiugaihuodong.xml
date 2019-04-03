@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+     <RelativeLayout
+        android:id="@+id/huodongftool"
+        android:layout_width="match_parent"
+        android:layout_height="50.0dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@drawable/gengduo_modifybiaoti12">              
+            <TextView 
+            android:id="@+id/huodongtool_text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="#ffffff"
+            android:text="修改活动"
+            android:textSize="20sp"/>
+
+            <TextView
+                android:id="@+id/huodongtool_text1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:paddingLeft="20dp"
+                android:layout_weight="0.6"
+                android:text="@string/more_back"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+            <TextView
+                android:id="@+id/huodongftool_text3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:layout_weight="0.6"
+                android:text="保存"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+                                                    
+      </RelativeLayout>
+<ScrollView
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="vertical" >
+          <LinearLayout
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+               android:orientation="vertical">
+            
+    <LinearLayout
+        android:id="@+id/myselfmain_1"
+        android:layout_width="220dp"
+        android:layout_height="170dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="@drawable/buttonclock" >
+
+       <ImageView
+            android:id="@+id/huodongset_user_image"
+            android:layout_width="200dp"
+            android:layout_height="150dp"
+            android:background="@drawable/tianjia999"
+            />
+
+       
+    </LinearLayout>
+    
+      <LinearLayout 
+          android:id="@+id/myselfmain_2"
+          android:layout_width="fill_parent"
+          android:layout_marginLeft="5dp"
+          android:layout_marginRight="5dp"
+          android:layout_marginTop="15dp"
+          android:layout_height="wrap_content"
+          android:orientation="vertical"
+          android:background="@drawable/roundshape">
+        <LinearLayout 
+           android:id="@+id/myselfmain_username"
+           android:layout_width="match_parent"
+           android:layout_height="50dp"
+           android:orientation="horizontal"
+           android:background="@drawable/wodexiaoyuan02"
+           >
+           <TextView
+                    android:id="@+id/myselfmain2_username_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"                            
+                    android:padding="10dp"
+                    android:text="名称："
+                    android:textColor="#666666"
+                    android:textSize="20sp"  
+               />
+
+           <EditText
+               android:id="@+id/huodongfmain_username_edit"
+               android:layout_width="230dp"
+               android:layout_marginBottom="3dp"
+               android:layout_marginTop="3dp"
+               android:layout_height="match_parent"
+               android:background="#fffef9"
+               android:hint="空" 
+               android:padding="10dp"
+               android:singleLine="true"
+               android:textColor="#000000"
+               android:textSize="16sp" >
+
+          </EditText>
+      </LinearLayout>
+             
+      
+          <LinearLayout 
+           android:id="@+id/huodongfmain_name"
+           android:layout_width="match_parent"
+           android:layout_height="50dp"
+           android:orientation="horizontal"
+           android:background="@drawable/wodexiaoyuan02"
+           >
+           <TextView
+                    android:id="@+id/huodongfmain_name_it"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"                            
+                    android:padding="10dp"
+                    android:text="时间："
+                    android:textColor="#666666"
+                    android:textSize="20sp"  
+               />
+
+           <EditText
+               android:id="@+id/huodongfmain_name_editx"
+               android:layout_width="230dp"
+               android:layout_marginBottom="3dp"
+               android:layout_marginTop="3dp"
+               android:layout_height="match_parent"
+               android:background="#fffef9"
+               android:hint="空" 
+               android:padding="10dp"
+               android:singleLine="true"
+               android:textColor="#000000"
+               android:textSize="16sp" >
+
+          </EditText>
+      </LinearLayout>
+       <LinearLayout 
+           android:id="@+id/huodongfmain_sex"
+           android:layout_width="match_parent"
+           android:layout_height="50dp"
+           android:orientation="horizontal"
+          android:background="@drawable/wodexiaoyuan02"
+           >
+          <TextView
+                    android:id="@+id/myselfmain_sex_t"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" 
+                    android:layout_marginLeft="3dp"                          
+                    android:padding="10dp"
+                    android:text="地点："
+                    android:textColor="#666666"
+                    android:textSize="20sp"  
+               />
+          <EditText 
+                android:id="@+id/huodongfmain_sex_edit"
+                android:layout_width="230dp"
+               android:layout_height="match_parent"
+               android:background="#fffef9"
+               android:layout_marginBottom="3dp"
+               android:layout_marginTop="3dp"
+               android:layout_marginRight="3dp"
+               android:hint="空"
+               android:padding="10dp"
+               android:singleLine="true"
+               android:textColor="#000000"
+               android:textSize="16sp" >
+           </EditText>
+       </LinearLayout>
+        <LinearLayout 
+           android:id="@+id/huodongfmain_leixing"
+           android:layout_width="match_parent"
+           android:layout_height="50dp"
+           android:orientation="horizontal"
+          android:background="@drawable/wodexiaoyuan02"
+           >
+          <TextView
+                    android:id="@+id/myselfmain_leixing_t"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" 
+                    android:layout_marginLeft="3dp"                          
+                    android:padding="10dp"
+                    android:text="类型："
+                    android:textColor="#666666"
+                    android:textSize="20sp"  
+               />
+           <Spinner 
+               android:id="@+id/huodong_leixing"
+               android:layout_width="wrap_content"
+               android:layout_height="match_parent"
+               android:spinnerMode="dialog"
+               android:layout_weight="1"
+               
+               android:layout_marginLeft="6dp"
+              />
+       </LinearLayout>
+      </LinearLayout>
+      
+      <LinearLayout 
+           android:id="@+id/huodongmain_phone"
+           android:layout_width="match_parent"
+           android:layout_height="50dp"
+           android:gravity="center"
+           android:layout_marginTop="20dp"
+           android:background="@drawable/wodexiaoyuan02"
+           >
+            <TextView
+                    android:id="@+id/huodongfmain_phone_t"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"                          
+                    android:padding="10dp"
+                    android:text="活动内容："
+                    android:textColor="#666666"
+                    android:textSize="20sp"  
+               />
+        </LinearLayout>
+        
+         <LinearLayout
+        android:id="@+id/huodong_advice"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="5dp"
+        android:orientation="vertical" >
+
+        <EditText
+            android:id="@+id/huodong_advice_tianjias"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginRight="3dp"
+            android:layout_marginBottom="3dp"
+            android:padding="10dp"
+            android:layout_weight="1"
+            android:hint="请在这里填写活动具体介绍"
+            android:textColor="#000000"
+            android:background="#fffef9"
+            android:textSize="15sp" />
+      </LinearLayout>
+      <Button 
+        android:text="删除"
+        android:textSize="20sp"
+        android:id="@+id/huodong_Button_1" 
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="35dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/buttonloginclock">
+      </Button>
+    </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

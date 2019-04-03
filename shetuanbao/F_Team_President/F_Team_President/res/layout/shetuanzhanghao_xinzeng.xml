@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:id="@+id/shetuan_baocun_detail"
+        android:layout_width="match_parent"
+        android:layout_height="50.0dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@drawable/gengduo_modifybiaoti12">              
+            <ImageView 
+            android:id="@+id/shetuanzhanghao_baocun_fanhui"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true"
+            />
+
+            <TextView
+                android:id="@+id/shetuanzhanghao_baocun_fanhui_2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:paddingLeft="20dp"
+                android:layout_weight="0.6"
+                android:text="返回"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+            <TextView
+            android:id="@+id/shetuanguanliyuan_baocun"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#ffffff"
+            android:layout_marginLeft="130dp"
+            android:layout_weight="1"
+            android:text="社团管理员新增"
+            android:textSize="20sp"/>
+              <TextView
+                android:id="@+id/shetuan_zhanghao_baocun_baocun"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="24dp"
+                android:layout_weight="0.6"
+                android:text="保存"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />                                       
+      </RelativeLayout>
+      <LinearLayout 
+          android:id="@+id/shetuan_zhanghao_baocun_zong"
+          android:layout_width="wrap_content"
+          android:layout_marginLeft="5dp"
+          android:layout_marginRight="5dp"
+          android:layout_marginTop="15dp"
+          android:layout_height="wrap_content"
+          android:orientation="vertical"
+          android:background="@drawable/roundshape">
+         
+          <LinearLayout 
+           android:id="@+id/shetuan_zhanghao_baocun_name"
+           android:layout_width="match_parent"
+           android:layout_height="50dp"
+           android:orientation="horizontal"
+           android:background="@drawable/wodexiaoyuan02"
+           >
+           <TextView
+                    android:id="@+id/shetuan_zhanghao_baocun_name_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"                            
+                    android:padding="10dp"
+                    android:text="社团名称:"
+                    android:textColor="#666666"
+                    android:textSize="14sp"  
+                    android:textStyle="bold"
+               />
+
+           <EditText
+               android:id="@+id/shetuan_zhanghao_baocun_name_3"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:background="@drawable/touming"
+               
+               android:padding="10dp"
+               android:singleLine="true"
+               android:textColor="#666666"
+               android:textSize="14sp"  >
+
+          </EditText>
+      </LinearLayout>
+           
+      
+          <LinearLayout 
+           android:id="@+id/shetuanzhanghao_baocun_mima"
+           android:layout_width="match_parent"
+           android:layout_height="50dp"
+           android:orientation="horizontal"
+          android:background="@drawable/wodexiaoyuan02"
+           >
+            <TextView
+                    android:id="@+id/shetuanzhanghao__baocun_mima_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" 
+                    android:layout_marginLeft="3dp"                          
+                    android:padding="10dp"
+                    android:text="密码:"
+                    android:textColor="#666666"
+                    android:textSize="14sp"
+                    android:textStyle="bold" 
+               />
+            <EditText 
+                android:id="@+id/sheutuanzhanghao_baocun_mima_3"
+                android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:background="@drawable/touming"
+               
+               
+               android:padding="10dp"
+               android:singleLine="true"
+               android:textColor="#666666"
+               android:textSize="14sp" 
+               >
+             </EditText>
+       </LinearLayout>
+       
+      
+      </LinearLayout>
+     
+</LinearLayout>

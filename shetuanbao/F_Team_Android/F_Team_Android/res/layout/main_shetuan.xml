@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <RelativeLayout 
+        android:id="@+id/huodong"
+        android:layout_width="fill_parent"
+        android:layout_height="28.0dp"
+        android:background="#FF8C00"
+        android:gravity="center">
+        <TextView
+            android:id="@+id/shetuan_bar_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"            
+            android:paddingLeft="66.0dip"
+            android:paddingRight="75.0dip"
+            android:singleLine="true"
+            android:label=""
+            android:text="社团"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            
+            />
+       </RelativeLayout>
+
+    <ListView
+        android:id="@+id/shetuan_text2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" 
+        android:background="#FFFFFF" >
+    </ListView>
+
+</LinearLayout>

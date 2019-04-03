@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="txm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/txm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\drawable\\roundshape.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\drawable\\roundshape.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonloginclock.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\drawable\\buttonloginclock.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button_style.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\drawable\\login_button_style.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\drawable\\roundshape.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\drawable\\roundshape.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonclock.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\drawable\\buttonclock.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonloginclock.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\drawable\\buttonloginclock.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\drawable\\roundbutton.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\drawable\\roundbutton.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\drawable\\roundbutton.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\drawable\\roundbutton.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonclock.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\drawable\\buttonclock.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button_style.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\drawable\\login_button_style.xml"
+    }
+]

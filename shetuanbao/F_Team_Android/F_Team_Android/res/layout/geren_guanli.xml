@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout
+        android:id="@+id/guanli_title"
+        android:layout_width="match_parent"
+        android:layout_height="50.0dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@drawable/gengduo_modifybiaoti12"> 
+        <TextView 
+            android:id="@+id/guanli_text1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:layout_weight="0.6"
+            android:paddingLeft="20dp"
+            android:textColor="#ffffff"
+            android:text="@string/more_back"
+            android:textSize="16sp"
+            />              
+            <TextView 
+            android:id="@+id/logintool_text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#ffffff"
+            android:text="管理员登录"
+            android:textSize="20sp"
+            />      
+                                                    
+        </LinearLayout>
+    
+    <LinearLayout 
+        android:id="@+id/shetuanguanli"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        >
+        <LinearLayout 
+           android:id="@+id/guanli_username"
+           android:layout_width="match_parent"
+           android:layout_marginTop="20dp"
+           android:layout_marginLeft="12dp"
+           android:layout_marginRight="12dp"
+           android:layout_height="50dp"
+           android:orientation="horizontal"
+           android:background="@drawable/roundshape"
+           >
+           <EditText 
+               android:id="@+id/guanli_koulingshuru"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="5dp"
+               android:layout_marginTop="5dp"
+               android:hint="请输入管理员口令"
+               android:padding="10dp"
+               android:inputType="textPassword"
+               android:singleLine="true"
+               android:textColor="#666666"
+               android:background="@drawable/touming"
+               android:textSize="16sp" >
+               </EditText>
+       </LinearLayout>
+       <Button 
+        android:text="确定"
+        android:textSize="20sp"
+        android:id="@+id/guanli_queding" 
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="20dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/buttonloginclock">
+      </Button>
+    </LinearLayout>
+    
+
+</LinearLayout>

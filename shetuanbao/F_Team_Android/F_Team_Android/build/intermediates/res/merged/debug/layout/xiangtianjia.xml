@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:id="@+id/xiangce_jianjia_biaoti"
+        android:layout_width="match_parent"
+        android:layout_height="50.0dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@drawable/gengduo_modifybiaoti12">              
+            <ImageView 
+            android:id="@+id/xiangce_tianjia_fanhui"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true"
+            />
+
+            <TextView
+                android:id="@+id/xiangce_tianjia_fanhui_2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:paddingLeft="20dp"
+                android:layout_weight="0.6"
+                android:text="返回"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+            <TextView
+            android:id="@+id/xiangce_tianjia_liebiao"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#ffffff"
+            android:layout_marginLeft="140dp"
+            android:layout_weight="1"
+            android:text="添加图片"
+            android:textSize="20sp"/>
+            <TextView
+                android:id="@+id/xiangce_tianjia_tianjia"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="24dp"
+                android:layout_weight="0.6"
+                android:text="保存"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+                                                    
+      </RelativeLayout>
+      <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:orientation="vertical" >
+      <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="180dp"
+        ></ImageView>
+     <ImageView
+         android:id="@+id/xiangcetianjia"
+         android:layout_width="fill_parent"
+         android:layout_height="200dp"
+         android:src="@drawable/xiangcetianjia2"/>
+     <ImageView
+         android:layout_width="fill_parent"
+         android:layout_height="match_parent"/>
+     </LinearLayout>
+</LinearLayout>

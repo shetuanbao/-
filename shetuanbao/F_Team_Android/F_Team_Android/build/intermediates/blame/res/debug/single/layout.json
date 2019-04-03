@@ -1,0 +1,778 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_pic_preview_activity.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\rc_pic_preview_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\jianting.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\jianting.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_ac_camera.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_ac_camera.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_wi_text_btn.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_wi_text_btn.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_cs_single_choice_layout.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_cs_single_choice_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\huodongrenyuan_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\huodongrenyuan_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_ac_albums.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_ac_albums.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\shetuanrenyuan.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\shetuanrenyuan.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_text_message.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_text_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_ac_picture_pager.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_ac_picture_pager.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\conversation.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\conversation.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\chengyuan_.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\chengyuan_.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\user_qr.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\user_qr.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\main_lost.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\main_lost.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_cs_alert_human_evaluation.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_cs_alert_human_evaluation.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\gride.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\gride.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\yonghuziliao.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\yonghuziliao.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_pic_selector_activity.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\rc_pic_selector_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_fr_photo.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_fr_photo.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\geren_lianxiwomen_weibo.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\geren_lianxiwomen_weibo.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_pinglun.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\huodong_pinglun.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\main_frame.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\main_frame.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_public_service_input_menus.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_public_service_input_menus.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_discussion_notification_message.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_discussion_notification_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\lianxiren_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\lianxiren_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\lianxiren_message.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\lianxiren_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\huodongrenyuan.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\huodongrenyuan.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_picprev_activity.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_picprev_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\listfoot.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\listfoot.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\user_guanli_guanligongneng.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\user_guanli_guanligongneng.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_sousuo.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\huodong_sousuo.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_voice_message.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_voice_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\geren_gerenziliao.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\geren_gerenziliao.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_emoji_gridview.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_emoji_gridview.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\geren_genggaidianhua.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\geren_genggaidianhua.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\load.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\load.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\xiangtianjia.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\xiangtianjia.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_rich_content_message.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_rich_content_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_fr_image.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_fr_image.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\xiugaihuodong.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\xiugaihuodong.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_sousuo_zong.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\huodong_sousuo_zong.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\shetuan_detail.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\shetuan_detail.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_ac_webview.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_ac_webview.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\myself_activity.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\myself_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\shetuan_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\shetuan_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_fr_public_service_inf.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_fr_public_service_inf.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_public_service_conversation.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_public_service_conversation.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_fr_conversation.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_fr_conversation.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\lianxi.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\lianxi.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_text_message_evaluate.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_text_message_evaluate.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_message.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_discussion_conversation.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_discussion_conversation.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\huodongxiangce_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\huodongxiangce_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\pull_to_refresh.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\autocompletetextview.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\autocompletetextview.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_wi_input.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_wi_input.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\huodongrenyuandetail.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\huodongrenyuandetail.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_pic_selector_fragment.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\rc_pic_selector_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_pic_cmp_customer_actionbar.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\rc_pic_cmp_customer_actionbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\guanli_chakanxiangce.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\guanli_chakanxiangce.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_cs_alert_robot_evaluation.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_cs_alert_robot_evaluation.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_base_conversation.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_base_conversation.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\geren_xiugaimima.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\geren_xiugaimima.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\main_shejiao.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\main_shejiao.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_image_message.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_image_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\spinner.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\spinner.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_picsel_grid_camera.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_picsel_grid_camera.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_fragment_base_setting.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_fragment_base_setting.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_wi_vo_popup.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_wi_vo_popup.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_conversation.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_conversation.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_pic_item_folder.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\rc_pic_item_folder.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_information_notification_message.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_information_notification_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\geren_lianxiwomen_dianhua.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\geren_lianxiwomen_dianhua.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\shejiao_lianxiren.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\shejiao_lianxiren.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\chakanxiangce.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\chakanxiangce.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_cs_item_single_choice.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_cs_item_single_choice.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\geren_lianxiwomen_weixin.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\geren_lianxiwomen_weixin.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\autocompletetextview_text.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\autocompletetextview_text.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_wi_txt_provider.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_wi_txt_provider.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\list_user.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\list_user.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\geren_yijianfankui.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\geren_yijianfankui.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_plugin_gridview.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_plugin_gridview.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\geren_guanli.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\geren_guanli.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\geren_yonghubangzhu.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\geren_yonghubangzhu.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\chengyuanxingming.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\chengyuanxingming.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\de_ac_register.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\de_ac_register.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\shetuan_cishan.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\shetuan_cishan.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_public_service_input_menu.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_public_service_input_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\gride_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\gride_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\shetuan_sousuo_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\shetuan_sousuo_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_fr_public_service_search.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_fr_public_service_search.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_fr_dialog_alter.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_fr_dialog_alter.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_pic_popup_window.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_pic_popup_window.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\main_huodong.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\main_huodong.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_fr_public_service_sub_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_fr_public_service_sub_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\guanli_huodong.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\guanli_huodong.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_fr_conversation_member_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_fr_conversation_member_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\geren_gerenzhongxin.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\geren_gerenzhongxin.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index_gallery_item.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\activity_index_gallery_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_app_service_conversation.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_app_service_conversation.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_activity_main.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\huodong_activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_pic_item_camera.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\rc_pic_item_camera.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\xiangce_xiugai.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\xiangce_xiugai.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_public_service_input_menu_item.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_public_service_input_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_fr_conversationlist.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_fr_conversationlist.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\geren_lianxiwomen_qq.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\geren_lianxiwomen_qq.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_wi_plugins.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_wi_plugins.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\chengyuan_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\chengyuan_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_wi_block_popup.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_wi_block_popup.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_mention_list_item.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_mention_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_cs_alert_warning.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_cs_alert_warning.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\loginactivity.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\loginactivity.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\huodongxciangce.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\huodongxciangce.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\de_merge_public.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\de_merge_public.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\shetuan_xueshu.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\shetuan_xueshu.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\shetuan_tiyu.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\shetuan_tiyu.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_public_service_multi_rich_content_message.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_public_service_multi_rich_content_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\main_shetuan.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\main_shetuan.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_picsel_grid_item.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_picsel_grid_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_wi_block.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_wi_block.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\huodongrenyuan2_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\huodongrenyuan2_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_group_conversation.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_group_conversation.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_public_service_message.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_public_service_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_picsel_activity.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_picsel_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_progress.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_progress.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_system_conversation.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_system_conversation.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_preview_fragment.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_preview_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\shetuan_wenyi.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\shetuan_wenyi.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_public_service_rich_content_message.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_public_service_rich_content_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_public_service_search.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_public_service_search.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\list_huodong.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\list_huodong.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_mention_members.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_mention_members.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\sthuodong.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\sthuodong.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\lianxirensousuo.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\lianxirensousuo.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\geren_lianxiwomen_youxiang.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\geren_lianxiwomen_youxiang.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\de_ac_photo.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\de_ac_photo.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_conversation_member.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_conversation_member.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\xiangce.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\xiangce.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_pic_item_image.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\rc_pic_item_image.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_souuso_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\huodong_souuso_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_location_message.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_location_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_input_pager_layout.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_input_pager_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_public_service_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_item_public_service_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\huodongrenyuan2.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\huodongrenyuan2.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\huodong.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\huodong.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_emoji_item.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_emoji_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_wi_notice.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_wi_notice.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_fr_messagelist.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_fr_messagelist.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\xiangce_manger_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\xiangce_manger_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\shetuan_sousuo.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\shetuan_sousuo.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\view_foot.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\view_foot.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\shezhi_activity.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\shezhi_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_wi_vo_provider.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_wi_vo_provider.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_picsel_catalog_listview.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_picsel_catalog_listview.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\shejiao_tiezi.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\layout\\shejiao_tiezi.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\rc_fr_messageinput.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\F_Team_Android\\IMKit\\unspecified\\res\\layout\\rc_fr_messageinput.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    }
+]

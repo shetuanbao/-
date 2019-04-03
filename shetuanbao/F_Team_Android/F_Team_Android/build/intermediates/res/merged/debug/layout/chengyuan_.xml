@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:id="@+id/guanli_title"
+        android:layout_width="match_parent"
+        android:layout_height="50.0dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@drawable/gengduo_modifybiaoti12"> 
+        <TextView 
+            android:id="@+id/chengyuanguanli_text1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:layout_weight="0.6"
+            android:paddingLeft="20dp"
+            android:textColor="#ffffff"
+            android:text="@string/more_back"
+            android:textSize="16sp"
+            />              
+            <TextView 
+            android:id="@+id/guanlichengyuan_text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#ffffff"
+            android:text="管理成员"
+            android:textSize="20sp"
+            />      
+                                                    
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+	
+        <ListView
+            android:id="@+id/yychengyuan_text2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            
+            android:divider="@color/blue2"
+            android:dividerHeight="1px" 
+            android:orientation="vertical" >
+        </ListView>
+     </LinearLayout>
+     
+     <LinearLayout 
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center"
+         >
+         <TextView
+		        android:id="@+id/chengyuan_tianjia"
+		        android:layout_width="150dp"
+		        android:layout_height="wrap_content"
+		        android:ellipsize="end"
+        		android:lines="3"
+        		android:layout_marginTop="35dp"
+        		android:background="@drawable/buttonloginclock"
+        		android:gravity="center"
+        		android:text="添加成员"
+        		android:singleLine="false"
+        		android:textColor="#ffffff"
+        		android:textSize="20sp"
+		        />
+     </LinearLayout>
+</LinearLayout>

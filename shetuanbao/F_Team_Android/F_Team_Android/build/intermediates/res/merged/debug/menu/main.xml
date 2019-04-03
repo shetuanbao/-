@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.chat.MainActivity" >
+   
+     <item  
+        android:id="@+id/action_open"  
+        android:title="扫码添加"  
+        />  
+        <item  
+        android:id="@+id/action_new"  
+        android:orderInCategory="100"  
+        android:title="查找添加"  
+        app:showAsAction="never"/>  
+
+</menu>

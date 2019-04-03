@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout 
+        android:id="@+id/zhanghao"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="@drawable/gengduo_modifybiaoti12">
+        
+        <TextView 
+            android:id="@+id/zhanghao_fanhui"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.6"
+            android:paddingLeft="20dp"
+            android:textColor="#ffffff"
+            android:text="返回"
+            android:gravity="center_vertical"
+            android:textSize="16sp"/>     
+           
+        <TextView
+            android:id="@+id/shetuan_zhanghao"
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="3dp"
+            android:textColor="#ffffff"
+            
+            android:layout_weight="1"
+            android:text="管理账号"
+            android:textSize="20sp"/>
+    </LinearLayout>
+    
+   <LinearLayout 
+            android:id="@+id/zhanghao_2"
+            android:layout_width="match_parent"
+            android:layout_height="140dp"         
+            android:orientation="vertical">
+			
+			
+			<TextView
+                    android:id="@+id/zhanghao_shetuan"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/gengduo_beijingtiao"
+                    android:layout_margin="0.5dp"
+                    android:layout_weight="1"
+                    android:gravity="left|center"
+                    android:padding="11dp"
+                    android:text="管理员账号"
+                    android:textColor="#666666"
+                    android:textSize="18sp" />
+			
+         <TextView
+                    android:id="@+id/geren_zhanghao"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/gengduo_beijingtiao"
+                    android:layout_margin="0.5dp"
+                    android:layout_weight="1"
+                    android:gravity="left|center"
+                    android:padding="11dp"
+                    android:text="个人用户账号"
+                    android:textColor="#666666"
+                    android:textSize="18sp" />
+        
+        </LinearLayout>
+    
+</LinearLayout>

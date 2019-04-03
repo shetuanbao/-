@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:id="@+id/shetuan_zhanghao"
+        android:layout_width="match_parent"
+        android:layout_height="50.0dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@drawable/gengduo_modifybiaoti12">              
+          
+
+            <TextView
+                android:id="@+id/shetuan_zhanghao_fanhui"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:paddingLeft="20dp"
+                android:layout_weight="0.6"
+                android:text="返回"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+            <TextView
+            android:id="@+id/shetuan_zhanghao_liebiao"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#ffffff"
+            android:layout_marginLeft="140dp"
+            android:layout_weight="1"
+            android:text="账号列表"
+            android:textSize="20sp"/>
+            <TextView
+                android:id="@+id/shetuan_zhanghao_xinzeng"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:layout_weight="0.6"
+                android:text="新增"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+                                                    
+      </RelativeLayout>
+       <ListView
+            android:id="@+id/shetuan_zhanghao_listview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+        </ListView>
+     
+</LinearLayout>

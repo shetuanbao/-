@@ -1,0 +1,42 @@
+package com.example.util;
+
+public class Constant {
+	public static String GetOnePicture = "<#GetOnePicture#>";
+	public static String InsertPic = "<#InsertPic#>";
+	public static String zengjiashetuan="<#zengjiashetuan#>";
+	public static String GetShetuanMax="<#GetShetuanMax#>";
+	public static String GetAllShetuan="<#GetAllShetuan#>";
+	public static String DeleteShetuan="<#DeleteShetuan#>";
+	public static String GetAllShetuanId="<#GetAllShetuanId#>";
+	public static String GetShetuanMessageById="<#GetShetuanMessageById#>";
+	public static String InsertShetuanMessage="<#InsertShetuanMessage#>";
+	public static String Persident="<#Persident#>";
+	public static String GetYiJianMessage="<#GetYiJianMessage#>";
+	public static String GET_USERIDANDPASSWORD="<#GET_USERIDANDPASSWORD#>";
+	public static final String UPDATA_USER_PASSWORD="<#UPDATA_USER_PASSWORD#>";
+	public static final String GetShetuanIdByName="<#GetShetuanIdByName#>";
+	public static final String GET_SHETUANNAME_BY_ID="<#GET_SHETUANNAME_BY_ID#>";
+	public static final String GET_GUANLI_MIMA="<#GET_GUANLI_MIMA#>";
+	public static final String GET_GUANLIMAXID="<#GET_GUANLIMAXID#>";
+	public static final String UPDATA_GUANLIMIMA="<#UPDATA_GUANLIMIMA#>";
+	public static final String INERT_GUANLI_MIMA="<#INERT_GUANLI_MIMA#>";
+	public static final String GET_FENGJINSHETUAN="<#GET_FENGJINSHETUAN#>";
+	public static final String UPDATA_JIECHUSHETUAN="<#UPDATA_JIECHUSHETUAN#>";
+	public static final String GETUSERIDANDMM="<#GETUSERIDANDMM#>";
+	public static final String GET_USERSTATIC="<#GET_USERSTATIC#>";
+	public static final String UPDATA_USERFENG="<#UPDATA_USERFENG#>";
+	public static final String UPDATA_USERJIE="<#UPDATA_USERJIE#>";
+	public static final String GET_USERNAME="<#GET_USERNAME#>";
+	public static final String GET_USERPS="<#GET_USERPS#>";
+	public static final String GET_USERIDBYNAME="<#GET_USERIDBYNAME#>";
+	public static  String GET_SUERSHETUAN="<#GET_SUERSHETUAN#>";
+	public static final String GetUserOnePhoto="<#GetUserOnePhoto#>";
+	public static final String GetUserName="<#GetUserName#>";
+	public static final String GetAllShetuanPicture="<#GetAllShetuanPicture#>";
+	public static final String GET_SHETUANZHUPICTURE="<#GET_SHETUANZHUPICTURE#>";
+	public static final String GET_SHETUANPCS="<#GET_SHETUANPCS#>";
+	public static final String GET_SHETUANPCST="<#GET_SHETUANPCST#>";
+	public static final String GET_USERZHUANYE="<#GET_USERZHUANYE#>";
+	public static final String GET_XUEYUAN="<#GET_XUEYUAN#>";
+	public static final String GET_USERSEX="<#GET_USERSEX#>";
+}

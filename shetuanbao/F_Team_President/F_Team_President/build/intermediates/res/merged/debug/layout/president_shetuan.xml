@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout 
+        android:id="@+id/zhuxi_fen"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="@drawable/gengduo_modifybiaoti12">
+        <TextView 
+            android:id="@+id/zhuxi_textview_1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.6"
+            android:paddingLeft="20dp"
+            android:textColor="#ffffff"
+            android:text="返回"
+            android:gravity="center_vertical"/>
+           
+        <TextView
+            android:id="@+id/zhuxi_tubiao_1"
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="2dp"
+            android:textColor="#ffffff"
+            android:gravity="center"
+            android:layout_marginRight="90dp"
+            android:layout_weight="1"
+            android:text="管理详情"
+            android:textSize="20sp"/>
+    </LinearLayout>
+    
+   <LinearLayout 
+            android:id="@+id/zhuxi_3"
+            android:layout_width="match_parent"
+            android:layout_height="280dp"         
+            android:orientation="vertical">
+			<TextView
+                    android:id="@+id/zengjiashetuan"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/gengduo_beijingtiao"
+                    android:layout_weight="1"
+                    android:gravity="left|center"
+                    android:padding="10dp"
+                    android:text="增加社团"
+                    android:textColor="#666666"
+                    android:textSize="18sp" />
+			<TextView
+                    android:id="@+id/shanchushetuan"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/gengduo_beijingtiao"
+                    android:layout_margin="0.5dp"
+                    android:layout_weight="1"
+                    android:gravity="left|center"
+                    android:padding="11dp"
+                    android:text="屏蔽社团"
+                    android:textColor="#666666"
+                    android:textSize="18sp" />
+             <TextView
+                    android:id="@+id/xiugaishetuan"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/gengduo_beijingtiao"
+                    android:layout_margin="0.5dp"
+                    android:layout_weight="1"
+                    android:gravity="left|center"
+                    android:padding="11dp"
+                    android:text="修改社团"
+                    android:textColor="#666666"
+                    android:textSize="18sp" />
+              <TextView
+                    android:id="@+id/jiechushetuan"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/gengduo_beijingtiao"
+                    android:layout_margin="0.5dp"
+                    android:layout_weight="1"
+                    android:gravity="left|center"
+                    android:padding="11dp"
+                    android:text="解除屏蔽"
+                    android:textColor="#666666"
+                    android:textSize="18sp" />
+        </LinearLayout>
+    
+</LinearLayout>

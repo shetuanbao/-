@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:id="@+id/zhuxi"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/gengduo_modifybiaoti122"
+        android:orientation="horizontal" >
+        <TextView
+            android:id="@+id/zhuxi_tubiao"
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="管理"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/zhuxi_2"
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:orientation="vertical" >
+        <TextView
+            android:id="@+id/zhuxi_shetuan"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="0.5dp"
+            android:layout_weight="1"
+            android:background="@drawable/gengduo_beijingtiao"
+            android:gravity="left|center"
+            android:padding="11dp"
+            android:text="社团管理"
+            android:textColor="#666666"
+            android:textSize="18sp" />
+        <TextView
+            android:id="@+id/zhuxi_shetuan_yijian"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="0.5dp"
+            android:layout_weight="1"
+            android:background="@drawable/gengduo_beijingtiao"
+            android:gravity="left|center"
+            android:padding="11dp"
+            android:text="意见箱"
+            android:textColor="#666666"
+            android:textSize="18sp" />
+        <TextView
+            android:id="@+id/zhuxi_shetuan_zhanghao"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="0.5dp"
+            android:layout_weight="1"
+            android:background="@drawable/gengduo_beijingtiao"
+            android:gravity="left|center"
+            android:padding="11dp"
+            android:text="账号管理"
+            android:textColor="#666666"
+            android:textSize="18sp" />
+    </LinearLayout>
+</LinearLayout>

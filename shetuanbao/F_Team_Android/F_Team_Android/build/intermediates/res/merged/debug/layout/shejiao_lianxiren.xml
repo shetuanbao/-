@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lianxiren"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+ <com.bn.util.RefreshableView
+        android:id="@+id/refreshable_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+    <ListView
+        android:id="@+id/android:list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        android:divider="@color/gray"
+        android:dividerHeight="1px" />  
+        <TextView
+	    android:id="@+id/meiyoulianxiren"	  
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:text="您还没添加好友"
+	    android:visibility="gone"
+	    android:textSize="20sp"
+	    android:gravity="center"/>
+ </com.bn.util.RefreshableView>
+   
+</LinearLayout>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:id="@+id/yijian_zong"
+        android:layout_width="match_parent"
+        android:layout_height="50.0dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@drawable/gengduo_modifybiaoti12">              
+            <ImageView 
+            android:id="@+id/yijian_text2_2"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true"
+            />
+
+            <TextView
+                android:id="@+id/yijian_text1_2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:paddingLeft="20dp"
+                android:layout_weight="0.6"
+                android:text="返回"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+            <TextView
+            android:id="@+id/yijian_tubiao3"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#ffffff"
+            android:layout_marginLeft="145dp"
+            android:layout_weight="1"
+            android:text="反馈详情"
+            android:textSize="20sp"/>
+                                                    
+      </RelativeLayout>
+      <LinearLayout 
+          android:id="@+id/yijian_3"
+          android:layout_width="wrap_content"
+          android:layout_marginLeft="5dp"
+          android:layout_marginRight="5dp"
+          android:layout_marginTop="15dp"
+          android:layout_height="wrap_content"
+          android:orientation="vertical"
+          android:background="@drawable/roundshape">
+         
+          <LinearLayout 
+           android:id="@+id/yijian_username_2"
+           android:layout_width="match_parent"
+           android:layout_height="50dp"
+           android:orientation="horizontal"
+           android:background="@drawable/wodexiaoyuan02"
+           >
+           <TextView
+                    android:id="@+id/yijian_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"                            
+                    android:padding="10dp"
+                    android:text="提交名称："
+                    android:textColor="#666666"
+                    android:textSize="14sp"  
+                    android:textStyle="bold"
+               />
+
+           <EditText
+               android:id="@+id/yijian_11"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:background="@drawable/touming"
+               
+               android:padding="10dp"
+               android:singleLine="true"
+               android:textColor="#666666"
+               android:textSize="14sp" android:enabled="false" 
+               android:editable="false" >
+
+          </EditText>
+      </LinearLayout>
+           
+      
+          <LinearLayout 
+           android:id="@+id/yijian_name_2"
+           android:layout_width="match_parent"
+           android:layout_height="50dp"
+           android:orientation="horizontal"
+          android:background="@drawable/wodexiaoyuan02"
+           >
+            <TextView
+                    android:id="@+id/yijian_lianxi_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" 
+                    android:layout_marginLeft="3dp"                          
+                    android:padding="10dp"
+                    android:text="联系方式："
+                    android:textColor="#666666"
+                    android:textSize="14sp"
+                    android:textStyle="bold" 
+               />
+            <EditText 
+                android:id="@+id/yijian_lianxi_3"
+                android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:background="@drawable/touming"
+               
+               
+               android:padding="10dp"
+               android:singleLine="true"
+               android:textColor="#666666"
+               android:textSize="14sp" 
+               android:enabled="false" android:editable="false">
+             </EditText>
+       </LinearLayout>
+       <LinearLayout 
+           android:id="@+id/yijian_name_3"
+           android:layout_width="match_parent"
+           android:layout_height="50dp"
+           android:orientation="horizontal"
+          android:background="@drawable/wodexiaoyuan02"
+           >
+            <TextView
+                    android:id="@+id/yijian_tijiao_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" 
+                    android:layout_marginLeft="3dp"                          
+                    android:padding="10dp"
+                    android:text="提交时间："
+                    android:textColor="#666666"
+                    android:textSize="14sp" 
+                    android:textStyle="bold" 
+               />
+            <EditText 
+                android:id="@+id/yijian_tijiao_3"
+                android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:background="@drawable/touming"
+               
+             
+               android:padding="10dp"
+               
+               android:textColor="#666666"
+               android:textSize="14sp" 
+               android:enabled="false" android:editable="false">
+             </EditText>
+       </LinearLayout>
+        <LinearLayout 
+           android:id="@+id/yijian_name_13"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="horizontal"
+          android:background="@drawable/wodexiaoyuan02"
+           >
+            <TextView
+                    android:id="@+id/yijian_12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" 
+                    android:layout_marginLeft="3dp"                          
+                    android:padding="10dp"
+                    android:text="意见："
+                    android:textColor="#666666"
+                    android:textStyle="bold"
+                    android:textSize="16sp"  
+               />
+            <EditText 
+                android:id="@+id/yijian_13"
+                android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:background="@drawable/touming"
+               android:padding="10dp"
+               android:textColor="#666666"
+               android:textSize="16sp" 
+               android:enabled="false" 
+               android:editable="false">
+             </EditText>
+       </LinearLayout>
+      </LinearLayout>
+     
+</LinearLayout>

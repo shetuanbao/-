@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\myanim_visible_go.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\anim\\myanim_visible_go.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\anim_stay.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\anim\\anim_stay.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_right.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\default_anim_out.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\anim\\default_anim_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\myanim_gone_back.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\anim\\myanim_gone_back.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\blink.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\anim\\blink.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\default_anim_in.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\anim\\default_anim_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\myanim_gone_go.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\anim\\myanim_gone_go.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\alpha.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\anim\\alpha.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\myanim_visible_back.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\anim\\myanim_visible_back.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_left.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\res\\anim\\out_to_left.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\Android\\workspace\\F_Team_Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_slide_in_top.xml"
+    }
+]

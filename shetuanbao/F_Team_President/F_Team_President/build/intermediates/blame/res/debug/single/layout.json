@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\president_shetuan.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\president_shetuan.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\yijianxiang_list.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\yijianxiang_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\geren.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\geren.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\geren.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\geren.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\shanchushetuan.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\shanchushetuan.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\yijianxiang_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\yijianxiang_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\sousuo_list.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\sousuo_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\xiugaishetuan_list.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\xiugaishetuan_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\shetuanzhanghao.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\shetuanzhanghao.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\shetuan_zhanghao_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\shetuan_zhanghao_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\listfoot.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\listfoot.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\jiechushetuan.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\jiechushetuan.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\shetuan_zhanghao_detail.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\shetuan_zhanghao_detail.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\sousuo_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\sousuo_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\zengjiashetuan.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\zengjiashetuan.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\yijiandetail.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\yijiandetail.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\yijianxiang.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\yijianxiang.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\shetuanxiugai.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\shetuanxiugai.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\shetuanzhanghao.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\shetuanzhanghao.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\shanchushetuan_list.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\shanchushetuan_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\autocompletetextview.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\autocompletetextview.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\shetuanxiugai.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\shetuanxiugai.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\geren_detail.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\geren_detail.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\geren_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\geren_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\sousuojieguo.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\sousuojieguo.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\listfoot.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\listfoot.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\zengjiashetuan.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\zengjiashetuan.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\guanli_zhanghao.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\guanli_zhanghao.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\geren_detail.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\geren_detail.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\shetuanzhanghao_xinzeng.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\shetuanzhanghao_xinzeng.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\shetuanzhanghao_xinzeng.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\shetuanzhanghao_xinzeng.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\xiugaishetuanzhu.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\xiugaishetuanzhu.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\jiechushetuan_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\jiechushetuan_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\zhengjianzhao.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\zhengjianzhao.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\sousuojieguo.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\sousuojieguo.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\shanchushetuan.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\shanchushetuan.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\geren_list.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\geren_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\autocompletetextview.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\autocompletetextview.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\xiugaishetuanzhu.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\xiugaishetuanzhu.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\xiugaishetuan_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\xiugaishetuan_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\shanchushetuan_list.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\shanchushetuan_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\zhengjianzhao.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\zhengjianzhao.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\president_shetuan.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\president_shetuan.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\guanli_zhanghao.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\guanli_zhanghao.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\zhengjianzhao2.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\zhengjianzhao2.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\jiechushetuan.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\jiechushetuan.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\zhengjianzhao2.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\zhengjianzhao2.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\yijianxiang.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\yijianxiang.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\yijiandetail.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\yijiandetail.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Android\\workspace\\F_Team_President\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\shetuan_zhanghao_detail.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\shetuan_zhanghao_detail.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\jiechushetuan_list.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\jiechushetuan_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\F_Team_President\\build\\intermediates\\res\\merged\\debug\\layout\\shetuan_zhanghao_list.xml",
+        "source": "D:\\Android\\F_Team_President\\res\\layout\\shetuan_zhanghao_list.xml"
+    }
+]

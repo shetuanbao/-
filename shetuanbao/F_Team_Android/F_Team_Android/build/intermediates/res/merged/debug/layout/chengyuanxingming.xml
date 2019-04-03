@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+     <LinearLayout
+        android:id="@+id/guanli_title"
+        android:layout_width="match_parent"
+        android:layout_height="50.0dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@drawable/gengduo_modifybiaoti12"> 
+        <TextView 
+            android:id="@+id/xingming_text1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:layout_weight="0.6"
+            android:paddingLeft="20dp"
+            android:textColor="#ffffff"
+            android:text="@string/more_back"
+            android:textSize="16sp"
+            />              
+            <TextView 
+            android:id="@+id/xingmingl_text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#ffffff"
+            android:text="请输入成员账号"
+            android:layout_marginLeft="20dp"
+            android:textSize="20sp"
+            />    
+            <ImageView
+                android:id="@+id/saomiao"
+                android:layout_height="30dp"
+                android:layout_width="30dp"
+                android:layout_marginRight="8dp"
+                android:src="@drawable/saomiao4"/>
+        </LinearLayout>
+     <LinearLayout 
+           android:id="@+id/chengyuanrname"
+           android:layout_width="match_parent"
+           android:layout_marginLeft="12dp"
+           android:layout_marginRight="12dp"
+           android:layout_marginTop="30dp"
+           android:layout_height="50dp"
+           android:orientation="horizontal"
+           android:background="@drawable/roundshape"
+           >
+           <AutoCompleteTextView
+               android:id="@+id/chengyuanname_edit"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="5dp"
+               android:background="@drawable/touming"
+               android:padding="10dp"
+               android:singleLine="true"
+               android:textColor="#666666"
+               android:textSize="14sp" >
+
+           </AutoCompleteTextView>
+       </LinearLayout>
+       
+     <Button 
+        android:text="确定"
+        android:textSize="20sp"
+        android:id="@+id/chengyuan_Button_1" 
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="35dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/buttonloginclock">
+      </Button>
+
+</LinearLayout>
